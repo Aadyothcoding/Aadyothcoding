@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am currently pursuing a BTECH in Electronics and
 
 🎓 Education: ECE with a specialization in Data Science.
 
-💻 Fields of Interest
+------ Fields of Interest ------
 
 
 📡 Embedded Systems
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am currently pursuing a BTECH in Electronics and
 
 🔗 LinkedIn: https://www.linkedin.com/in/aadyoth-sreeram-49a485279/
 
-🛠️ Skills
+------ Skills -------
 
 🖥️ Programming Languages: Python, C, C++, HTML
 
