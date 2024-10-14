@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am currently pursuing a BTECH in Electronics and
 🚀 About Me
 🎓 Education: ECE with a specialization in Data Science.
 
-💻 Fields of Interest:
+💻 Fields of Interest
 
 📡 Embedded Systems
 📊 Machine Learning
