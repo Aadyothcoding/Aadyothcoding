@@ -7,7 +7,9 @@ Beyond this, I'm an aspiring MERN stack and Django web developer with expertise 
 📫 How to Reach Me
 
 Email: aadyoth.sreeram@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aadyoth-sreeram-49a485279/
+
 Portfolio: https://sites.google.com/srmist.edu.in/aadyoth/welcome
 
 
