@@ -42,7 +42,7 @@ Feel free to explore my repositories and projects. Let's innovate together! 🚀
 ![KNN](https://img.shields.io/badge/-KNN-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SVM](https://img.shields.io/badge/-SVM-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/-Random%20Forest-47A248?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Logistic Regression](https://img.shields.io/ba
+
 
 
 
