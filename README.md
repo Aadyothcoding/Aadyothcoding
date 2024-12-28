@@ -12,14 +12,25 @@ Portfolio: https://sites.google.com/srmist.edu.in/aadyoth/welcome
 
 
 🛠️ Skills and Expertise
+
 Programming Languages: Python, C, C++, HTML, CSS, React
+
 Web Development: MERN Stack, Django, Flask
+
 1D Signal Processing
+
 Machine Learning: Simulation, Logistic Regression
+
 Algorithms: CNN, CNN-LSTM, SVM, KNN, Random Forest
+
 Deep Learning
+
 PCB Design: EasyEDA
+
 Circuit Simulation: LTspice, Allium Designer
+
 CAD Software: AutoCAD, SolidWorks
+
 Simulation Tools: ModelSim
+
 Feel free to explore my repositories and projects. Let's innovate together! 🚀
