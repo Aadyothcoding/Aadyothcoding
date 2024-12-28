@@ -51,7 +51,8 @@ Feel free to explore my repositories and projects. Let's innovate together! 🚀
 
 ### Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?Aadyothcoding=yourusername&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadyothcoding&theme=radical)
+
 
 ### Trophies
 
