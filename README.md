@@ -13,32 +13,8 @@ LinkedIn: https://www.linkedin.com/in/aadyoth-sreeram-49a485279/
 Portfolio: https://sites.google.com/srmist.edu.in/aadyoth/welcome
 
 
-🛠️ Skills and Expertise
-
-Programming Languages: Python, C, C++, HTML, CSS, React
-
-Web Development: MERN Stack, Django, Flask
-
-1D Signal Processing
-
-Machine Learning: Simulation, Logistic Regression
-
-Algorithms: CNN, CNN-LSTM, SVM, KNN, Random Forest
-
-Deep Learning
-
-PCB Design: EasyEDA
-
-Circuit Simulation: LTspice, Allium Designer
-
-CAD Software: AutoCAD, SolidWorks
-
-Simulation Tools: ModelSim
-
 Feel free to explore my repositories and projects. Let's innovate together! 🚀
 
-
-Tech Stack
 ### Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -48,13 +24,26 @@ Tech Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3766AB?style=for-the-badge&logo=python&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
-![Allium Designer](https://img.shields.io/badge/-Allium%20Designer-8A2BE2?style=for-the-badge&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-0078D7?style=for-the-badge&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
+![Allium Designer](https://img.shields.io/badge/-Allium%20Designer-8A2BE2?style=for-the-badge&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-0078D7?style=for-the-badge&logoColor=white)
+![LTspice](https://img.shields.io/badge/-LTspice-003B73?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/-ModelSim-007ACC?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-FFA500?style=for-the-badge&logo=verilog&logoColor=white)
+
+#### Machine Learning Models:
+![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CNN-LSTM](https://img.shields.io/badge/-CNN--LSTM-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+![KNN](https://img.shields.io/badge/-KNN-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SVM](https://img.shields.io/badge/-SVM-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-47A248?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Logistic Regression](https://img.shields.io/ba
+
+
 
 
