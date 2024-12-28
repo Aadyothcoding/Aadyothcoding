@@ -44,6 +44,24 @@ Feel free to explore my repositories and projects. Let's innovate together! 🚀
 ![Random Forest](https://img.shields.io/badge/-Random%20Forest-47A248?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
+### GitHub Statistics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadyothcoding&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadyothcoding&layout=compact&theme=radical)
+
+### Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?Aadyothcoding=yourusername&theme=radical)
+
+### Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aadyothcoding&theme=radical)
+
+### Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aadyothcoding&theme=radical)
+
+
 
 
 
