@@ -10,7 +10,7 @@ Email: aadyoth.sreeram@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/aadyoth-sreeram-49a485279/
 
-Portfolio: https://sites.google.com/srmist.edu.in/aadyoth/welcome
+Portfolio: https://personalport-9w1p.onrender.com
 
 
 Feel free to explore my repositories and projects. Let's innovate together! 🚀
