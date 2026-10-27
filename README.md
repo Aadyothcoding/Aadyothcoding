@@ -1,59 +1,113 @@
-Hi there, I'm Aadyoth Sreeram 👋✨
+# Aadyoth Sreeram
 
-Welcome to my GitHub profile! I am currently pursuing a B.Tech in Electronics and Communication Engineering (ECE) with a specialization in Data Science at SRM Institute of Science and Technology. My interests span embedded systems, machine learning, and deep learning, with a particular focus on applications in healthcare systems and finance. I'm also exploring the fascinating domains of image processing and natural language processing (NLP), and I'm excited to delve deeper into these fields!
+**ECE · Data Science · Machine Learning · Embedded Systems**
 
-Beyond this, I'm an aspiring MERN stack and Django web developer with expertise in creating interactive and responsive web applications using HTML, CSS, and React. I thrive on opportunities to work on real-time projects and collaborate on innovative solutions, aiming to contribute to meaningful advancements in technology. 🚀
+Electronics and Communication Engineering undergraduate at **SRM Institute of Science and Technology**, specializing in Data Science. I build practical AI systems that combine machine learning, embedded computing, and software engineering, with interests in healthcare AI, computer vision, signal processing, and intelligent sensing.
 
-📫 How to Reach Me
+My work spans applied ML research, hardware–software integration, and full-stack development. I enjoy taking ideas from experimentation to implementation, building systems that are efficient, interpretable, and useful in real-world settings.
 
-Email: aadyoth.sreeram@gmail.com
+[Email](mailto:aadyoth.sreeram@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app)
 
-LinkedIn: https://www.linkedin.com/in/aadyoth-sreeram-49a485279/
+---
 
-Portfolio: https://game-port-ashen.vercel.app
+### Areas of Interest
 
+| Area | Focus |
+|---|---|
+| **Machine Learning & AI** | Deep learning, computer vision, NLP, explainable AI |
+| **Healthcare AI** | Medical imaging, physiological signals, disease prediction |
+| **Embedded Systems** | ESP32, edge AI, sensor integration, FPGA design |
+| **Full-Stack Development** | React, Node.js, Django, REST APIs, MongoDB |
 
-Feel free to explore my repositories and projects. Let's innovate together! 🚀
+### Technical Skills
 
-### Tech Stack
+**Languages**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3766AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
-![Allium Designer](https://img.shields.io/badge/-Allium%20Designer-8A2BE2?style=for-the-badge&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-0078D7?style=for-the-badge&logoColor=white)
-![LTspice](https://img.shields.io/badge/-LTspice-003B73?style=for-the-badge&logoColor=white)
-![ModelSim](https://img.shields.io/badge/-ModelSim-007ACC?style=for-the-badge&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-FFA500?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-30363D?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-30363D?style=flat-square)
 
-#### Machine Learning Models:
-![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CNN-LSTM](https://img.shields.io/badge/-CNN--LSTM-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![KNN](https://img.shields.io/badge/-KNN-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SVM](https://img.shields.io/badge/-SVM-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-47A248?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**AI / Machine Learning**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-30363D?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-30363D?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-30363D?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-30363D?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-30363D?style=flat-square&logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-30363D?style=flat-square)
 
-### GitHub Statistics
+**Web Development**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadyothcoding&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadyothcoding&layout=compact&theme=radical)
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-30363D?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-30363D?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-30363D?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-30363D?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-30363D?style=flat-square&logo=css3&logoColor=white)
 
-### Streak Stats
+**Embedded Systems & Tools**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aadyothcoding&theme=radical)
+![ESP32](https://img.shields.io/badge/ESP32-30363D?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-30363D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-30363D?style=flat-square&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-30363D?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-30363D?style=flat-square&logo=googlecolab&logoColor=white)
 
+---
 
+### Selected Projects
 
+**01 · Slum Detection from Satellite Imagery**
 
+Developing a lightweight MobileNetV2–U-Net segmentation pipeline to identify informal settlements in high-resolution satellite imagery.
 
+`PyTorch` `Deep Learning` `Computer Vision` `Remote Sensing`
+
+**02 · Explainable AI for Panoramic Dental Radiographs**
+
+Exploring explainable AI techniques for interpreting panoramic dental images. Accepted for oral presentation at ICA6NT 2025.
+
+`Deep Learning` `Medical Imaging` `Explainable AI`
+
+**03 · Intelligent Aquarium Monitoring System**
+
+Developed a YOLOv5-based fish detection system integrated with IoT environmental sensing. Presented at IEEE INDICON 2025.
+
+`YOLOv5` `IoT` `Computer Vision`
+
+**04 · EMG-Based Weightlifting Analysis**
+
+Built a machine learning pipeline combining EMG signals and accelerometer data to analyse muscle activity and movement patterns.
+
+`Signal Processing` `Random Forest` `Neural Networks`
+
+**05 · AI-Powered Financial Applications**
+
+Built applications for stock analysis, virtual portfolio management, and financial intelligence using machine learning and modern web technologies.
+
+`Python` `MERN Stack` `AI Applications`
+
+---
+
+### Research & Publications
+
+- **Utility Based Explainable AI for Heart Disease Diagnosis** — Accepted at ACDSA 2026.
+- **Explainable AI for Panoramic Dental Radiographs** — Accepted for oral presentation at ICA6NT 2025.
+- **Intelligent Aquarium Monitoring System Using YOLOv5 and IoT-Based Environmental Sensing** — Presented at IEEE INDICON 2025.
+
+---
+
+### GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadyothcoding&show_icons=true&hide=issues,contribs&hide_rank=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=30363d&cache_seconds=86400)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app) · [Email](mailto:aadyoth.sreeram@gmail.com)
+
+*Building intelligent systems through research, engineering, and experimentation.*
