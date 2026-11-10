@@ -6,7 +6,7 @@ Electronics and Communication Engineering undergraduate at **SRM Institute of Sc
 
 My work spans applied ML research, hardware–software integration, and full-stack development. I enjoy taking ideas from experimentation to implementation, building systems that are efficient, interpretable, and useful in real-world settings.
 
-[Email](mailto:aadyoth.sreeram@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app/)
+[Email](mailto:aadyoth.sreeram@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app)
 
 ---
 
@@ -15,15 +15,13 @@ My work spans applied ML research, hardware–software integration, and full-sta
 | Area | Focus |
 |---|---|
 | **Machine Learning & AI** | Deep learning, computer vision, NLP, explainable AI |
-| **Healthcare AI** | Medical imaging, ECG analysis, physiological signals, disease prediction |
+| **Healthcare AI** | Medical imaging, physiological signals, disease prediction |
 | **Embedded Systems** | ESP32, edge AI, sensor integration, FPGA design |
 | **Full-Stack Development** | React, Node.js, Django, REST APIs, MongoDB |
 
----
-
 ### Technical Skills
 
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-30363D?style=flat-square&logo=cplusplus&logoColor=white)
@@ -35,7 +33,7 @@ My work spans applied ML research, hardware–software integration, and full-sta
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-30363D?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-30363D?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-30363D?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-30363D?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-30363D?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-30363D?style=flat-square&logo=numpy&logoColor=white)
@@ -62,67 +60,37 @@ My work spans applied ML research, hardware–software integration, and full-sta
 
 ---
 
-### Featured Projects
+### Selected Projects
 
 **01 · Slum Detection from Satellite Imagery**
 
-Developing a lightweight MobileNetV2–U-Net semantic segmentation pipeline to identify informal settlements in high-resolution satellite imagery. The project explores efficient deep learning architectures for urban analysis and remote sensing applications.
+Developing a lightweight MobileNetV2–U-Net segmentation pipeline to identify informal settlements in high-resolution satellite imagery.
 
-`PyTorch` `MobileNetV2` `U-Net` `Semantic Segmentation` `Remote Sensing`
+`PyTorch` `Deep Learning` `Computer Vision` `Remote Sensing`
 
-**02 · ECG Arrhythmia Classification Using Deep Learning**
+**02 · Explainable AI for Panoramic Dental Radiographs**
 
-Developing deep learning approaches for ECG-based arrhythmia classification using the INCART Arrhythmia Database. Exploring Siamese Networks and attention-based Transformer Encoders to learn discriminative representations from physiological signals.
-
-`Deep Learning` `Siamese Networks` `Transformers` `ECG Signal Processing`
-
-**03 · Explainable AI for Panoramic Dental Radiographs**
-
-Exploring explainable AI techniques for interpreting panoramic dental radiographs, with an emphasis on improving the interpretability of AI-assisted medical image analysis. Accepted for oral presentation at ICA6NT 2025.
+Exploring explainable AI techniques for interpreting panoramic dental images. Accepted for oral presentation at ICA6NT 2025.
 
 `Deep Learning` `Medical Imaging` `Explainable AI`
 
-**04 · Intelligent Aquarium Monitoring System**
+**03 · Intelligent Aquarium Monitoring System**
 
-Developed a YOLOv5-based fish detection system integrated with IoT environmental sensing. Trained on a dataset of 1,308 images and achieved 98.6% precision, 98.1% recall, and 99.1% mAP@0.5. Presented at IEEE INDICON 2025.
+Developed a YOLOv5-based fish detection system integrated with IoT environmental sensing. Presented at IEEE INDICON 2025.
 
-`YOLOv5` `Computer Vision` `IoT` `Object Detection`
+`YOLOv5` `IoT` `Computer Vision`
 
-**05 · LiftSmart – EMG-Based Weightlifting Analysis**
+**04 · EMG-Based Weightlifting Analysis**
 
-Built a machine learning pipeline combining EMG signals from a MyoWare sensor and accelerometer data to analyse muscle activity and movement patterns during weightlifting. Evaluated multiple classifiers, with Random Forest achieving 92.20% accuracy.
+Built a machine learning pipeline combining EMG signals and accelerometer data to analyse muscle activity and movement patterns.
 
-`EMG Signal Processing` `Random Forest` `Neural Networks` `Sensor Integration`
+`Signal Processing` `Random Forest` `Neural Networks`
 
-**06 · Emotion Detection Using Embedded AI**
+**05 · AI-Powered Financial Applications**
 
-Developed an audio-based emotion recognition system using an ESP32 and microphone input. Processed audio features using Librosa and trained a Random Forest classifier on the RAVDESS dataset, achieving 91% accuracy.
+Built applications for stock analysis, virtual portfolio management, and financial intelligence using machine learning and modern web technologies.
 
-`ESP32` `Librosa` `Audio Processing` `Random Forest`
-
-**07 · Portfolyo – Virtual Stock Trading Platform**
-
-Developed a full-stack virtual stock trading platform using the MERN stack, enabling users to manage virtual portfolios and explore stock market performance through an interactive web application.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-**08 · EcoBoom – Financial Intelligence Dashboard**
-
-Built a real-time global financial intelligence dashboard using React, Vite, and Node.js/Express, integrating financial information into an interactive platform for market monitoring and analysis.
-
-`React` `Vite` `Node.js` `Financial Technology`
-
----
-
-### Other Projects
-
-- **Univisor AI:** AI-powered university admissions guidance platform developed during an Agentic AI internship, exploring LangChain, LangGraph, RAG, and guardrails.
-- **Stock Market Agentic AI:** Financial analysis application integrating Groq, Llama, and Yahoo Finance.
-- **Django Stock Portfolio:** Full-stack stock portfolio management application using Django.
-- **Pneumonia Detection:** CNN-based medical image classification for pneumonia detection.
-- **Heart Health Prediction:** Machine learning-based disease prediction using Logistic Regression.
-- **IMU Activity Classification:** Sensor-based human activity recognition using inertial measurement data.
-- **Smoke Freeze:** Mobile application concept focused on supporting smoking cessation.
+`Python` `MERN Stack` `AI Applications`
 
 ---
 
@@ -134,12 +102,12 @@ Built a real-time global financial intelligence dashboard using React, Vite, and
 
 ---
 
-### GitHub Statistics
+### GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadyothcoding&show_icons=true&hide=issues,contribs&hide_rank=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=30363d&cache_seconds=86400)
 
 ---
 
-[GitHub](https://github.com/Aadyothcoding) · [LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app/) · [Email](mailto:aadyoth.sreeram@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app) · [Email](mailto:aadyoth.sreeram@gmail.com)
 
 *Building intelligent systems through research, engineering, and experimentation.*
