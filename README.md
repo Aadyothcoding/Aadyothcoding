@@ -44,7 +44,7 @@ My work spans applied ML research, hardware–software co-design, and production
 * **AI News & Risk Engine:** Aggregates real-time macroeconomic RSS feeds and generates AI-powered sentiment scores and risk metrics.
 * **Live Market Analytics:** Features interactive sentiment heatmaps, continuously updated trend charts, and a live scrolling financial news ticker.
 * **Tech Stack:** `React.js` `Vite` `Node.js` `Express.js` `3D Globe Visualization` `RSS Feeds` `AI Sentiment Analysis`
-* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/ecoboom)
+
 
 ---
 
@@ -55,7 +55,7 @@ My work spans applied ML research, hardware–software co-design, and production
 * **Semantic Retrieval (RAG):** Uses vector embeddings to search and ground responses in real program requirements and prospectus data.
 * **Conversational Guidance:** Enables students to compare international programs and query admission criteria interactively.
 * **Tech Stack:** `LangChain` `LangGraph` `ChromaDB` `Hugging Face Embeddings` `ChatGroq` `Microsoft Azure`
-* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/univisor-ai)
+
 
 ---
 
@@ -66,7 +66,7 @@ My work spans applied ML research, hardware–software co-design, and production
 * **Portfolio & Stock Analytics:** Track real-time portfolio performance, manage holdings, and compare stocks side-by-side.
 * **AI Portfolio Insights:** Python-driven financial intelligence that evaluates holdings and helps users understand market movements.
 * **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Python` `Market Data APIs` | **Deployed on:** `Vercel` & `Railway`
-* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/portfolyo-ai)
+
 
 ---
 
