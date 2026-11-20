@@ -1,113 +1,21 @@
-# Aadyoth Sreeram
+# 💫 About Me:
+Electronics and Communication Engineering undergraduate at SRM Institute of Science and Technology, specializing in Data Science. I build practical AI systems that combine machine learning, embedded computing, and software engineering, with interests in healthcare AI, computer vision, signal processing, and intelligent sensing.<br><br>My work spans applied ML research, hardware–software integration, and full-stack development. I enjoy taking ideas from experimentation to implementation, building systems that are efficient, interpretable, and useful in real-world settings.<br><br>Areas of Interest<br><br>Area	Focus<br>Machine Learning & AI	Deep learning, computer vision, NLP, explainable AI<br>Healthcare AI	Medical imaging, physiological signals, disease prediction<br>Embedded Systems	ESP32, edge AI, sensor integration, FPGA design<br>Full-Stack Development	React, Node.js, Django, REST APIs, MongoDB<br><br><br>Technical Skills<br><br>Languages<br><br>Python C++ JavaScript SQL Verilog<br><br>AI / Machine Learning<br><br>PyTorch TensorFlow scikit--learn OpenCV Pandas NumPy Librosa<br><br>Web Development<br><br>React Node.js Express Django MongoDB HTML5 CSS3<br><br>Embedded Systems & Tools<br><br>ESP32 Arduino Raspberry Pi Git VS Code Google Colab<br><br><br><br>
 
-**ECE · Data Science · Machine Learning · Embedded Systems**
 
-Electronics and Communication Engineering undergraduate at **SRM Institute of Science and Technology**, specializing in Data Science. I build practical AI systems that combine machine learning, embedded computing, and software engineering, with interests in healthcare AI, computer vision, signal processing, and intelligent sensing.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadyoth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadyoth.sreeram@gmail.com) 
 
-My work spans applied ML research, hardware–software integration, and full-stack development. I enjoy taking ideas from experimentation to implementation, building systems that are efficient, interpretable, and useful in real-world settings.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aadyothcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aadyothcoding&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadyothcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[Email](mailto:aadyoth.sreeram@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app)
-
----
-
-### Areas of Interest
-
-| Area | Focus |
-|---|---|
-| **Machine Learning & AI** | Deep learning, computer vision, NLP, explainable AI |
-| **Healthcare AI** | Medical imaging, physiological signals, disease prediction |
-| **Embedded Systems** | ESP32, edge AI, sensor integration, FPGA design |
-| **Full-Stack Development** | React, Node.js, Django, REST APIs, MongoDB |
-
-### Technical Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-30363D?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-30363D?style=flat-square)
-
-**AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-30363D?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-30363D?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-30363D?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-30363D?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-30363D?style=flat-square&logo=numpy&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-30363D?style=flat-square)
-
-**Web Development**
-
-![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-30363D?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-30363D?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-30363D?style=flat-square&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-30363D?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-30363D?style=flat-square&logo=css3&logoColor=white)
-
-**Embedded Systems & Tools**
-
-![ESP32](https://img.shields.io/badge/ESP32-30363D?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-30363D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-30363D?style=flat-square&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-30363D?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-30363D?style=flat-square&logo=googlecolab&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aadyothcoding&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aadyothcoding&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Selected Projects
-
-**01 · Slum Detection from Satellite Imagery**
-
-Developing a lightweight MobileNetV2–U-Net segmentation pipeline to identify informal settlements in high-resolution satellite imagery.
-
-`PyTorch` `Deep Learning` `Computer Vision` `Remote Sensing`
-
-**02 · Explainable AI for Panoramic Dental Radiographs**
-
-Exploring explainable AI techniques for interpreting panoramic dental images. Accepted for oral presentation at ICA6NT 2025.
-
-`Deep Learning` `Medical Imaging` `Explainable AI`
-
-**03 · Intelligent Aquarium Monitoring System**
-
-Developed a YOLOv5-based fish detection system integrated with IoT environmental sensing. Presented at IEEE INDICON 2025.
-
-`YOLOv5` `IoT` `Computer Vision`
-
-**04 · EMG-Based Weightlifting Analysis**
-
-Built a machine learning pipeline combining EMG signals and accelerometer data to analyse muscle activity and movement patterns.
-
-`Signal Processing` `Random Forest` `Neural Networks`
-
-**05 · AI-Powered Financial Applications**
-
-Built applications for stock analysis, virtual portfolio management, and financial intelligence using machine learning and modern web technologies.
-
-`Python` `MERN Stack` `AI Applications`
-
----
-
-### Research & Publications
-
-- **Utility Based Explainable AI for Heart Disease Diagnosis** — Accepted at ACDSA 2026.
-- **Explainable AI for Panoramic Dental Radiographs** — Accepted for oral presentation at ICA6NT 2025.
-- **Intelligent Aquarium Monitoring System Using YOLOv5 and IoT-Based Environmental Sensing** — Presented at IEEE INDICON 2025.
-
----
-
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadyothcoding&show_icons=true&hide=issues,contribs&hide_rank=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=30363d&cache_seconds=86400)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/aadyoth-sreeram-49a485279/) · [Portfolio](https://game-port-ashen.vercel.app) · [Email](mailto:aadyoth.sreeram@gmail.com)
-
-*Building intelligent systems through research, engineering, and experimentation.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
