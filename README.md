@@ -1,6 +1,106 @@
-# 💫 About Me:
-Electronics and Communication Engineering undergraduate at SRM Institute of Science and Technology, specializing in Data Science. I build practical AI systems that combine machine learning, embedded computing, and software engineering, with interests in healthcare AI, computer vision, signal processing, and intelligent sensing.<br><br>My work spans applied ML research, hardware–software integration, and full-stack development. I enjoy taking ideas from experimentation to implementation, building systems that are efficient, interpretable, and useful in real-world settings.<br><br>Areas of Interest<br><br>Area	Focus<br>Machine Learning & AI	Deep learning, computer vision, NLP, explainable AI<br>Healthcare AI	Medical imaging, physiological signals, disease prediction<br>Embedded Systems	ESP32, edge AI, sensor integration, FPGA design<br>Full-Stack Development	React, Node.js, Django, REST APIs, MongoDB<br><br><br>Technical Skills<br><br>Languages<br><br>Python C++ JavaScript SQL Verilog<br><br>AI / Machine Learning<br><br>PyTorch TensorFlow scikit--learn OpenCV Pandas NumPy Librosa<br><br>Web Development<br><br>React Node.js Express Django MongoDB HTML5 CSS3<br><br>Embedded Systems & Tools<br><br>ESP32 Arduino Raspberry Pi Git VS Code Google Colab<br><br><br><br>
+<!-- Animated Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aadyoth+Sreeram+%F0%9F%91%8B;ECE+%26+Data+Science+Undergrad+%40+SRMIST;Building+Practical+AI%2C+Edge+Systems+%26+Full-Stack+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aadyoth.sreeram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+###  About Me
+
+I am an **Electronics and Communication Engineering** undergraduate specializing in **Data Science** at **SRM Institute of Science and Technology**. I build end-to-end AI systems that bridge **machine learning, embedded computing, and full-stack software engineering**.
+
+My work spans applied ML research, hardware–software co-design, and production web applications. I focus on taking ideas from experimentation to deployment—building systems that are **efficient, interpretable, and practical** in real-world environments.
+
+---
+
+###  Areas of Interest
+
+| Domain | Focus Areas |
+| :--- | :--- |
+| **Machine Learning & AI** | Deep Learning, Computer Vision, NLP, Explainable AI (XAI), Agentic Workflows |
+| **Healthcare AI** | Medical Imaging, Physiological Signal Processing, Disease Prediction |
+| **Embedded & Edge Systems** | ESP32, Edge AI, Sensor Integration, FPGA Design & Hardware Acceleration |
+| **Full-Stack Engineering** | React, Node.js, Express, Django, REST APIs, MongoDB, Cloud Deployment |
+
+---
+
+###  Featured Projects
+
+#### 1.  EcoBoom — Real-Time Global Financial Intelligence Dashboard
+> Consolidating live market tracking, macroeconomic news, and AI sentiment analysis into a single interactive 3D interface.
+
+* **Interactive 3D Globe:** Visualizes live stock-exchange statuses across 14 major global markets.
+* **AI News & Risk Engine:** Aggregates real-time macroeconomic RSS feeds and generates AI-powered sentiment scores and risk metrics.
+* **Live Market Analytics:** Features interactive sentiment heatmaps, continuously updated trend charts, and a live scrolling financial news ticker.
+* **Tech Stack:** `React.js` `Vite` `Node.js` `Express.js` `3D Globe Visualization` `RSS Feeds` `AI Sentiment Analysis`
+* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/ecoboom)
+
+---
+
+#### 2.  Univisor AI — Agentic AI University Admissions Platform
+> Replacing manual university research with a multi-agent AI system for personalized postgraduate shortlisting and admissions guidance.
+
+* **Multi-Agent Architecture:** Orchestrates specialized autonomous agents for student profile analysis, university research, eligibility evaluation, and tailored recommendations.
+* **Semantic Retrieval (RAG):** Uses vector embeddings to search and ground responses in real program requirements and prospectus data.
+* **Conversational Guidance:** Enables students to compare international programs and query admission criteria interactively.
+* **Tech Stack:** `LangChain` `LangGraph` `ChromaDB` `Hugging Face Embeddings` `ChatGroq` `Microsoft Azure`
+* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/univisor-ai)
+
+---
+
+#### 3.  Portfolyo.ai — Risk-Free Stock Trading Simulator & AI Insights
+> Bridging the financial literacy gap by letting beginners practice equity trading with real-time market data and zero financial risk.
+
+* **Real-Time Virtual Trading:** Execute simulated buy/sell orders using virtual currency backed by live market-data APIs.
+* **Portfolio & Stock Analytics:** Track real-time portfolio performance, manage holdings, and compare stocks side-by-side.
+* **AI Portfolio Insights:** Python-driven financial intelligence that evaluates holdings and helps users understand market movements.
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Python` `Market Data APIs` | **Deployed on:** `Vercel` & `Railway`
+* 🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/portfolyo-ai)
+
+---
+
+### 🛠️ Technical Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-1E3A8A?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
+
+**AI / Machine Learning & Agentic Systems**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Librosa-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Web Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadyoth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadyoth.sreeram@gmail.com) 
